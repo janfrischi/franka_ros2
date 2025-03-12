@@ -1,0 +1,3 @@
+[submodule "cartesian_impedance_control"]
+	path = cartesian_impedance_control
+	url = https://github.com/janfrischi/cartesian_impedance_control.git
